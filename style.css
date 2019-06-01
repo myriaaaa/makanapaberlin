@@ -1,0 +1,91 @@
+/* style.css */
+body{
+  background: #D5DDDF;
+  color: #627B87;
+  font-size: 25px;
+  font-family: Helvetica;
+  margin: 0px
+}
+
+p  {
+  font-family: 'Nunito', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+h4  {
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+  color: red;
+  font-size: 61px;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  color: black;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none; 
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://tinyurl.com/yyrva6yt");
+  background-size: cover;
+  padding: 150px 0px;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 60px;
+}
+
+#banner p {
+  color: white;
+  font-size: 45px;
+}
+
+.section {
+  padding: 50px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+#footer {
+  padding: 25px;
+  text-align: center;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+.fab {
+  color: white;
+  font-size: 35px;
+}
+
+.fab:hover {
+  color: red;
+  cursor: none;
+}
